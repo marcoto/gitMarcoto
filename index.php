@@ -1,5 +1,5 @@
 <?php 
 
-echo 'test wooxik branch1';
+echo 'test wooxik server';
 
 ?>
