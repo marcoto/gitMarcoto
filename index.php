@@ -1,5 +1,5 @@
 <?php 
 
-echo 'test wooxik PC';
+echo 'test wooxik PC2';
 
 ?>
